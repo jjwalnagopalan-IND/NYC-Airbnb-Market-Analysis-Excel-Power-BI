@@ -59,5 +59,6 @@ These observations describe the supplied historical data and report view; they s
 5. Explore price modeling using clearly defined training and evaluation data.
    
 ## Author
-* Jwalna G *
+*Jwalna G*
+
 Created as a data analytics portfolio project using Excel and Power BI.
